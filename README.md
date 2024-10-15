@@ -32,4 +32,4 @@ A secure web application developed using JSP and JDBC for managing subscriptions
 - **Track Payments:** View member statuses and pending payments.
 
 ## Contact
-For more info, reach out via [your-email@example.co](mailto:dharmeshgelatar15@gmail.com).
+For more info, reach out via [dharmeshgelatar15@gmail.com]
