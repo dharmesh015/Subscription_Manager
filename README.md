@@ -40,22 +40,8 @@ For more info, reach out via [dharmeshgelatar15@gmail.com
 
 ### Home Page
 ![image](https://github.com/user-attachments/assets/71dbeea8-3832-48fb-a8b7-94423bc28474)
+![Screenshot 2024-10-15 233154](https://github.com/user-attachments/assets/c9f67b64-db3d-48f6-a867-a12951ce7e26)
 
-<h3>Feature Screenshots</h3>
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <div>
-        <h4>Add New Member</h4>
-        <img src="https://github.com/user-attachments/assets/665c8083-a16f-4d12-bea0-e62c0de8d96f" alt="Add New Member" width="300"/>
-    </div>
-    <div>
-        <h4>Delete Member</h4>
-        <img src="https://github.com/user-attachments/assets/f36fd6ae-ba85-4b90-8d59-22512df17527" alt="Delete Member" width="300"/>
-    </div>
-    <div>
-        <h4>Update Member Subscription</h4>
-        <img src="https://github.com/user-attachments/assets/aadf0bdb-99c9-4d2b-9227-0684f86171ec" alt="Update Member Subscription" width="300"/>
-    </div>
-</div>
 
 
 
