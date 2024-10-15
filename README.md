@@ -1,41 +1,35 @@
 # Subscription Manager
 
-![Subscription Management](https://img.shields.io/badge/Subscription%20Manager-2196F3?style=for-the-badge&logo=manageiq&logoColor=white)
+A secure web application developed using JSP and JDBC for managing subscriptions. The app includes features like user authentication, member management, and subscription tracking.
 
-A secure web application developed using JSP and JDBC to manage user subscriptions efficiently. The system features robust authentication processes, including user registration, login, and logout functionalities.
-
-[Visit the GitHub Repository](https://github.com/dharmesh015/Subscription_Manager)
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [How to Use](#how-to-use)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
-- [Contact Information](#contact-information)
-
-## Project Overview
-The Subscription Manager project is designed to provide a comprehensive solution for managing user subscriptions. It ensures data security and user authentication through its well-implemented registration and login mechanisms.
+[GitHub Repository](https://github.com/dharmesh015/Subscription_Manager)
 
 ## Key Features
-- **Secure Authentication:** User registration, login, and logout.
+- **Authentication:** User registration, login, and logout.
 - **Subscription Management:** Add, update, and delete subscriptions.
-- **Renewal Tracking:** Receive reminders for subscription renewals.
-- **User-Friendly Interface:** Easy navigation and management of all subscription details.
+- **Member Management:**
+  - Add, delete, and update member details.
+  - View member payment status and all member information.
+  - Display list of members with pending payments.
 
-## Technologies Used
-- **Frontend:** HTML, CSS, Bootstrap
+
+## Technologies
+- **Frontend:** HTML, CSS
 - **Backend:** JSP, Servlets, JDBC
 - **Database:** MySQL
 - **Server:** Apache Tomcat
-- **Development Tools:** Eclipse, IntelliJ IDEA, Git
 
-## Setup and Installation
-To set up and run the Subscription Manager project on your local machine, follow these steps:
+## Setup
+1. **Clone Repo:** `git clone https://github.com/dharmesh015/Subscription_Manager.git`
+2. **Database:** Set up MySQL and import the provided SQL schema.
+3. **Config:** Update database details in the project files.
+4. **Deploy:** Run the project on Apache Tomcat server.
+5. **Access:** Go to `http://localhost:8080/Subscription_Manager` in your browser.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/dharmesh015/Subscription_Manager.git
+## Usage
+- **Register/Login:** Create and manage your account.
+- **Manage Members:** Add, update, or delete member information.
+- **Track Payments:** View member statuses and pending payments.
 
+## Contact
+For more info, reach out via [your-email@example.co](mailto:dharmeshgelatar15@gmail.com).
