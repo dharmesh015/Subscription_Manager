@@ -1,7 +1,9 @@
 
 # Subscription Manager
 
-A secure web application developed using JSP and JDBC for managing subscriptions. The app includes features like user authentication, member management, and subscription tracking.
+The Subscription Management System is a secure web application designed to streamline subscription management for members. It allows administrators to efficiently add, delete, and update member subscriptions while enabling members to track their payment status. The user-friendly interface enhances overall user experience for both admins and members.
+
+
 
 [GitHub Repository](https://github.com/dharmesh015/Subscription_Manager)
 
