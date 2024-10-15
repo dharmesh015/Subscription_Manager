@@ -36,5 +36,27 @@ A secure web application developed using JSP and JDBC for managing subscriptions
 For more info, reach out via [dharmeshgelatar15@gmail.com
 
 
-![image](https://github.com/user-attachments/assets/1f0eb9c0-1b19-477b-a807-be410372424e)
+## Feature Screenshots
+
+### Home Page
+![image](https://github.com/user-attachments/assets/71dbeea8-3832-48fb-a8b7-94423bc28474)
+
+
+### Add New Member
+![image](https://github.com/user-attachments/assets/665c8083-a16f-4d12-bea0-e62c0de8d96f)
+
+
+### Delete Member
+![image](https://github.com/user-attachments/assets/f36fd6ae-ba85-4b90-8d59-22512df17527)
+
+
+### Update Member Subscription
+![image](https://github.com/user-attachments/assets/aadf0bdb-99c9-4d2b-9227-0684f86171ec)
+
+
+### Display Member Payment Status
+![image](https://github.com/user-attachments/assets/5d01298e-6889-4626-8875-5a424d6a639c)
+
+
+
 
