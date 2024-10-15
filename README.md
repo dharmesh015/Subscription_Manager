@@ -1,3 +1,4 @@
+
 # Subscription Manager
 
 A secure web application developed using JSP and JDBC for managing subscriptions. The app includes features like user authentication, member management, and subscription tracking.
@@ -32,4 +33,8 @@ A secure web application developed using JSP and JDBC for managing subscriptions
 - **Track Payments:** View member statuses and pending payments.
 
 ## Contact
-For more info, reach out via [dharmeshgelatar15@gmail.com]
+For more info, reach out via [dharmeshgelatar15@gmail.com
+
+
+![image](https://github.com/user-attachments/assets/1f0eb9c0-1b19-477b-a807-be410372424e)
+
