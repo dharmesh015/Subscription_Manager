@@ -43,15 +43,13 @@ For more info, reach out via [dharmeshgelatar15@gmail.com
 
 
 ### Add New Member
-![image](https://github.com/user-attachments/assets/665c8083-a16f-4d12-bea0-e62c0de8d96f)
-
+<img src="https://github.com/user-attachments/assets/665c8083-a16f-4d12-bea0-e62c0de8d96f" alt="Add New Member" width="400"/>
 
 ### Delete Member
-![image](https://github.com/user-attachments/assets/f36fd6ae-ba85-4b90-8d59-22512df17527)
-
+<img src="https://github.com/user-attachments/assets/f36fd6ae-ba85-4b90-8d59-22512df17527" alt="Delete Member" width="400"/>
 
 ### Update Member Subscription
-![image](https://github.com/user-attachments/assets/aadf0bdb-99c9-4d2b-9227-0684f86171ec)
+<img src="https://github.com/user-attachments/assets/aadf0bdb-99c9-4d2b-9227-0684f86171ec" alt="Update Member Subscription" width="400"/>
 
 
 ### Display Member Payment Status
