@@ -40,7 +40,7 @@ For more info, reach out via [dharmeshgelatar15@gmail.com
 
 ### Home Page
 ![image](https://github.com/user-attachments/assets/71dbeea8-3832-48fb-a8b7-94423bc28474)
-![Screenshot 2024-10-15 233154](https://github.com/user-attachments/assets/c9f67b64-db3d-48f6-a867-a12951ce7e26)
+
 
 
 
